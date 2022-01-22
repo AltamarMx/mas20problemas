@@ -1,4 +1,5 @@
 # mas de 20 problemas en ingenieria
+
 1. Revisar instalacion de Jupyter Notebook, arrancar donde se desea
 1. Estructura de trabajo con GitHub integrado
 1. Calculo de energía solar por día, semana, mes, año
