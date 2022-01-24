@@ -8,9 +8,9 @@
 1. Análisis de clima a partir de un EPW de un sitio con repositorio incluido en jupyter
 1. Heat map de sensación térmica
 1. heat map error diario con calplot
+1. Organiza una rifa
 1. Análisis de datos categóricos
 1. Grafíca de trayectoria solar aparente con interact
-1. Organiza una rifa
 1. Calcula y grafica promedio, desviación estándard, máximo y mínimo de serie de datos del día promedio
 1. Diccionario de diccionario para generar una base de datos
 1. Ambientes virtuales, caso ejemplo pandas y xlsx y xls
