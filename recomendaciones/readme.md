@@ -1,5 +1,5 @@
 ## Día 01
-1. [WinPython] (https://sourceforge.net/projects/winpython/files/)
+1. [WinPython](https://sourceforge.net/projects/winpython/files/)
 1. [Git](https://git-scm.com/downloads)
 1. [GitHub](https://github.com/)
 
