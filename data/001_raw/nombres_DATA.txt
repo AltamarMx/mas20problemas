@@ -1,0 +1,1 @@
+tiempo,SFlujo,TemPrtdIn,TemPrtdOut,TCPan1,TCPan2,TCPan3,TCPan4,TCPan5,TCCubo01,TCCubo02,TCCubo03,TCCubo04,TCCubo05,TCCubo06,TCCubo07,TCCubo08,TCCubo09,TCCubo010,TCPiso,Ti,A1,A2,A3,A4,Flujo2,TemPrtdIn2,TemPrtdOut2,InterIn,InterOut
