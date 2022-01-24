@@ -25,3 +25,5 @@
 1. Formato de print caso, guardar archivos
 1. Python en microcontroladores
 1. El ambiente de Joel Grus
+
+cambio en clase
