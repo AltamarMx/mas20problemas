@@ -4,6 +4,10 @@
 1. [Git](https://git-scm.com/downloads)
 1. [GitHub](https://github.com/)
 1. [Video de tips and tricks en Git](https://www.youtube.com/watch?v=ecK3EnyGD8o&t=1s)
+1. [Numpy](https://numpy.org/)
+1. [WindRose](https://github.com/python-windrose/windrose)
+1. [Assuring variable types in functions](https://stackoverflow.com/questions/2489669/how-do-python-functions-handle-the-types-of-parameters-that-you-pass-in)
+
 
 
 ## Día 02
