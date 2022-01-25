@@ -7,7 +7,8 @@
 1. Trucos en la libreta de Jupyter
 1. Análisis de clima a partir de un EPW de un sitio con repositorio incluido en jupyter
 1. Heat map de sensación térmica
-1. heat map error diario con calplot
+1. Importa datos de tres fuentes diferentes y graficalos juntos
+1. heat map error diario con calplot de datos experimentales vs 3 simulaciones num'ericas
 1. Organiza una rifa
 1. Análisis de datos categóricos
 1. Grafíca de trayectoria solar aparente con interact
