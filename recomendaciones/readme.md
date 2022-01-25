@@ -11,6 +11,7 @@
 
 
 ## Día 02
+1. [Intro a Git, a partir de 4:00](https://www.youtube.com/watch?v=jGehuhFhtnE)
 
 ## Día 03
 
