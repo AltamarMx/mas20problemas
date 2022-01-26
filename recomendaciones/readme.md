@@ -14,6 +14,10 @@
 1. [Intro a Git, a partir de 4:00](https://www.youtube.com/watch?v=jGehuhFhtnE)
 
 ## Día 03
+1.[Diferencia entre lista y array](https://numpy.org/doc/stable/user/absolute_beginners.html#whats-the-difference-between-a-python-list-and-a-numpy-array)
+1.[cmaps in Matplotlib](https://matplotlib.org/stable/tutorials/colors/colormaps.html)
+1.[Seaborn](https://seaborn.pydata.org/examples/index.html)
+
 
 ## Día 04
 
