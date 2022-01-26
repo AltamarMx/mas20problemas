@@ -1,4 +1,4 @@
-notebooks_gbv/*
+# notebooks_gbv/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
