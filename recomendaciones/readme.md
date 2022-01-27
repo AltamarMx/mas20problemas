@@ -22,5 +22,10 @@
 ## Día 04
 1. [Joyplot](https://deepnote.com/@deepnote/Joyplot-Introduction-RmbhozJJRC6alCu8xcsbHQ)
 1. [List comprehension explained](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
+1. [Interact](https://ipywidgets.readthedocs.io/en/latest/examples/Using%20Interact.html)
+1. [polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
+1. [Linear regression with scipy](https://www.youtube.com/watch?v=WhJVm-5X1QI)
+
+
 
 ## Día 05
