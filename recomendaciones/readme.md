@@ -42,5 +42,7 @@
 1. [Aplicacion de OpenCV: Reconocimiento de cubrebocas](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
 1. [Libro: Numerical Python A Practical Techniques Approach for Industry](https://jrjohansson.github.io/numericalpython.html)
 1. [30 días de python](https://github.com/Asabeneh/30-Days-Of-Python)
+1. [tkinter](https://docs.python.org/3/library/tkinter.html)
+1. [https://slack.com/intl/es-mx/](https://slack.com/intl/es-mx/)
 
 
