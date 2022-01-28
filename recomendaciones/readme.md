@@ -25,6 +25,10 @@
 1. [Interact](https://ipywidgets.readthedocs.io/en/latest/examples/Using%20Interact.html)
 1. [polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
 1. [Linear regression with scipy](https://www.youtube.com/watch?v=WhJVm-5X1QI)
+1. [GEOPANDAS](https://geopandas.org/en/stable/)
+1. [INEGI y geopandas](http://blog.jjsantoso.com/zoom-mapas-geopandas/)
+1. [Imagenes satelitales con Python](https://towardsdatascience.com/satellite-imagery-access-and-analysis-in-python-jupyter-notebooks-387971ece84b)
+
 
 
 
