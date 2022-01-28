@@ -34,5 +34,6 @@
 1. [UTF-8](https://es.wikipedia.org/wiki/UTF-8)
 1. [OpenCV](https://opencv.org/)
 1. [Aplicacion de OpenCV](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
+1. [MikTex for windows](https://miktex.org/download)
 
 
