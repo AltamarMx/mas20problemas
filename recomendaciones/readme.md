@@ -37,13 +37,10 @@
 1. [Cassandra](https://cassandra.apache.org/_/index.html)
 1. [UTF-8](https://es.wikipedia.org/wiki/UTF-8)
 1. [OpenCV](https://opencv.org/)
-<<<<<<< HEAD
 1. [Aplicacion de OpenCV](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
 1. [MikTex for windows](https://miktex.org/download)
-=======
 1. [Aplicacion de OpenCV: Reconocimiento de cubrebocas](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
 1. [Libro: Numerical Python A Practical Techniques Approach for Industry](https://jrjohansson.github.io/numericalpython.html)
 1. [30 días de python](https://github.com/Asabeneh/30-Days-Of-Python)
->>>>>>> 063ed3816e4aca7e58bfc69aac8dd1ff8ea49619
 
 
