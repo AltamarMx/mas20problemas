@@ -29,3 +29,10 @@
 
 
 ## Día 05
+1. [Regex](https://es.wikipedia.org/wiki/Expresi%C3%B3n_regular)
+1. [Cassandra](https://cassandra.apache.org/_/index.html)
+1. [UTF-8](https://es.wikipedia.org/wiki/UTF-8)
+1. [OpenCV](https://opencv.org/)
+1. [Aplicacion de OpenCV](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
+
+
