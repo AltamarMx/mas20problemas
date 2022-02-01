@@ -1,31 +1,28 @@
 # mas de 20 problemas en ingenieria
 
-1. Revisar instalacion de Jupyter Notebook, arrancar donde se desea
-1. Estructura de trabajo con GitHub integrado
-1. Calculo de energía solar por día, semana, mes, año
-1. Rosa de los vientos con windrose
-1. Trucos en la libreta de Jupyter
-1. Análisis de clima a partir de un EPW de un sitio con repositorio incluido en jupyter
-1. Heat map de sensación térmica
-1. Importa datos de tres fuentes diferentes y graficalos juntos
-1. heat map error diario con calplot de datos experimentales vs 3 simulaciones num'ericas
-1. Organiza una rifa
-1. Análisis de datos categóricos
-1. Grafíca de trayectoria solar aparente con interact
-1. Calcula y grafica promedio, desviación estándard, máximo y mínimo de serie de datos del día promedio
-1. Diccionario de diccionario para generar una base de datos
-1. Ambientes virtuales, caso ejemplo pandas y xlsx y xls
-1. Escribe una clase para para calcular métricas de simulaciones y obtener resultados directo a tu tesis en LaTeX
-1. Prepara tu figura para insertarla en LaTeX
-1. Define funciones para facilitar tu flujo de trabajo en Matplotlib, caso sensores de CO2
-1. Introducción a cartopy
-1. Ajuste de polinomios
-1. Ajuste de funciones de distribucion de probabilidad
-1. Gráficas "compuestas"
-1. Joy plots
-1. Formato de print caso, guardar archivos
-1. Python en microcontroladores
-1. El ambiente de Joel Grus
 
-cambio en clase
-otro cambio
+001_Revisar instalacion de Jupyter Notebook.ipynb
+002_EstructuraTrabajoconGitHub.ipynb
+003_calculo_energiaSolar.ipynb
+004_RosaVientos.ipynb
+005a_TrucosJupyter.ipynb
+006_AnalisisClima_from_EPW.ipynb
+007a_intro_numpy.ipynb
+007b_heatmap_sensacionTermica.ipynb
+008_importa_3fuentes_diferentes.ipynb
+008a_importa_3fuentes_diferentes.ipynb
+009_CalcularError.ipynb
+009a_CalcularError.ipynb
+010_Calplot_graficaAnualDiaria.ipynb
+011_Diccionario_de_Diccionarios.ipynb
+012_SVD_Obstacle.ipynb
+013_cartopy.ipynb
+014_ajustePolinomios.ipynb
+015_calculoEstadisticos_diaPromedio.ipynb
+016_OpenCV_obteniendo_centroides_de_circulos.ipynb
+017_Conectar_a_una_Base_de_Datos_SQL_y_obtener_datos_para_graficar.ipynb
+018_figura_latex.ipynb
+019_AnalisisProteccionesSolares_gaby.ipynb
+020_joyplot.ipynb
+021_DiaPromedio_Seaborn.ipynb
+022_stereograph-ecs.ipynb
