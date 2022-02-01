@@ -2,15 +2,13 @@
 
 1. Revisar instalacion de Jupyter Notebook.ipynb
 1. EstructuraTrabajoconGitHub.ipynb
-1. calculo_energiaSolar.ipynb
+1. Calculo_energiaSolar.ipynb
 1. RosaVientos.ipynb
 1. TrucosJupyter.ipynb
 1. AnalisisClima_from_EPW.ipynb
 1. intro_numpy.ipynb
-1. _heatmap_sensacionTermica.ipynb
+1. Heatmap_sensacionTermica.ipynb
 1. importa_3fuentes_diferentes.ipynb
-1. importa_3fuentes_diferentes.ipynb
-1. CalcularError.ipynb
 1. CalcularError.ipynb
 1. Calplot_graficaAnualDiaria.ipynb
 1. Diccionario_de_Diccionarios.ipynb
